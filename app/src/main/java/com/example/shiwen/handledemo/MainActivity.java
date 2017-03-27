@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 e.printStackTrace();
             }
             myhandle.sendMessage(message);
-            Log.d(TAG, "run: "+"new commit");
+//            Log.d(TAG, "run: "+"new commit");
 
         }
 
