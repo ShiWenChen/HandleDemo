@@ -87,6 +87,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
             myhandle.sendMessage(message);
 //            Log.d(TAG, "run: "+"new commit");
+//            asdlfkasldfasdfksafkasldfhkjkjkjlkjljkljljlkklljjkhjhkjk
+            Log.d(TAG, "run: asldfkjasldfasdjflasdf");
+
 
         }
 
